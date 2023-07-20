@@ -1,0 +1,14 @@
+{
+    "name": "adm/fun-di",
+    "autoload": {
+        "psr-4": {
+            "Adm\\FunDi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexYasakov",
+        }
+    ],
+    "require": {}
+}
